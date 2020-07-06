@@ -1,0 +1,1 @@
+java -jar wiremock-standalone-2.27.0.jar --port 7070
